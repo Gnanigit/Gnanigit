@@ -59,6 +59,34 @@ const gnaneswar = {
 
 <br/>
 
+## GitHub Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Gnanigit&show_icons=true&hide_border=true&bg_color=0D111700&title_color=818CF8&icon_color=818CF8&text_color=C9D1D9&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Gnanigit&show_icons=true&hide_border=true&bg_color=FFFFFF00&title_color=4F46E5&icon_color=4F46E5&text_color=24292F&count_private=true">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Gnanigit&show_icons=true&hide_border=true&bg_color=0D111700&title_color=818CF8&icon_color=818CF8&text_color=C9D1D9&count_private=true" height="165"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnanigit&layout=compact&hide_border=true&bg_color=0D111700&title_color=818CF8&text_color=C9D1D9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnanigit&layout=compact&hide_border=true&bg_color=FFFFFF00&title_color=4F46E5&text_color=24292F">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnanigit&layout=compact&hide_border=true&bg_color=0D111700&title_color=818CF8&text_color=C9D1D9" height="165"/>
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Gnanigit&theme=transparent&hide_border=true&ring=818CF8&fire=818CF8&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Gnanigit&theme=transparent&hide_border=true&ring=4F46E5&fire=4F46E5&currStreakLabel=24292F&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Gnanigit&theme=transparent&hide_border=true&ring=818CF8&fire=818CF8&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"/>
+</picture>
+
+</div>
+
+<br/>
+
+
 ## Experience
 
 | Period | Role | What I worked on |
@@ -163,32 +191,6 @@ English-to-Telugu AI translation for Telangana High Court judgments and Secretar
 
 <br/>
 
-## GitHub Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Gnanigit&show_icons=true&hide_border=true&bg_color=0D111700&title_color=818CF8&icon_color=818CF8&text_color=C9D1D9&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Gnanigit&show_icons=true&hide_border=true&bg_color=FFFFFF00&title_color=4F46E5&icon_color=4F46E5&text_color=24292F&count_private=true">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Gnanigit&show_icons=true&hide_border=true&bg_color=0D111700&title_color=818CF8&icon_color=818CF8&text_color=C9D1D9&count_private=true" height="165"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnanigit&layout=compact&hide_border=true&bg_color=0D111700&title_color=818CF8&text_color=C9D1D9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnanigit&layout=compact&hide_border=true&bg_color=FFFFFF00&title_color=4F46E5&text_color=24292F">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnanigit&layout=compact&hide_border=true&bg_color=0D111700&title_color=818CF8&text_color=C9D1D9" height="165"/>
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Gnanigit&theme=transparent&hide_border=true&ring=818CF8&fire=818CF8&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Gnanigit&theme=transparent&hide_border=true&ring=4F46E5&fire=4F46E5&currStreakLabel=24292F&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Gnanigit&theme=transparent&hide_border=true&ring=818CF8&fire=818CF8&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"/>
-</picture>
-
-</div>
-
-<br/>
 
 ## Currently Learning
 
