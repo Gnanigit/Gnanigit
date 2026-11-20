@@ -241,6 +241,6 @@ I'm open to conversations about AI engineering, RAG systems, and full-stack prod
 
 <sub>Hyderabad, India · Building practical AI systems that ship.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4F46E5,100:0F172A&section=footer" alt="" width="100%"/>
+<hr/>
 
 </div>
