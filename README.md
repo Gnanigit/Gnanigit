@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,100:4F46E5&text=Yalla%20Gnaneswar&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20%26%20Full-Stack%20Systems&descSize=18&descAlignY=60&animation=fadeIn" alt="Yalla Gnaneswar - Software Engineer, AI and Full-Stack Systems" width="100%"/>
+<img src="https://raw.githubusercontent.com/Gnanigit/Gnanigit/main/banner.svg" alt="Yalla Gnaneswar - Software Engineer, AI and Full-Stack Systems" width="100%"/>
 
 <a href="https://github.com/Gnanigit">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1800&color=6366F1&center=true&vCenter=true&width=720&lines=Production+RAG+pipelines+and+LLM-based+matching;Custom+MCP+server+on+Claude;Enterprise+apps+on+AWS+and+Azure+for+AstraZeneca" alt="Typing animation of core expertise" />
